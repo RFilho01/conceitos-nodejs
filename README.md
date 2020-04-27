@@ -1,2 +1,2 @@
-# conceitos-nodejs
+# Conceitos NodeJS
 Desafio sobre Conceitos do Node.js aplicado no Bootcamp GoStack da Rocketseat. Resultado final deve ser capaz de fazer um CRUD de repositórios acrescentando a funcionalidade de Likes nos repositorios.
